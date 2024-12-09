@@ -13,11 +13,6 @@ public class variables
 		int num21=5;
 		int result=num11+num21;
 		System.out.println(result);
-
-
-
-
-
 		
     }
 }
